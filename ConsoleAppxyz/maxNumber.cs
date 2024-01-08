@@ -12,7 +12,7 @@ public class maxNumber
         int max = arr[0];
         for (int i = 0; i < arr.Length; i++)
         {
-            if (arr[i] > max)
+            if (arr[i] > max) 
             {
                 max = arr[i];
             }
